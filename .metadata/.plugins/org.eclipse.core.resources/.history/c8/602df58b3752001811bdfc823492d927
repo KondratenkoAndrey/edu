@@ -1,0 +1,17 @@
+//============================================================================
+// Name        : types.cpp
+// Author      : Andrey Kondratenko
+// Version     :
+// Copyright   : AK
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+
+
+	return 0;
+}

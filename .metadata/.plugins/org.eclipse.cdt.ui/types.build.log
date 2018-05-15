@@ -1,0 +1,28 @@
+23:57:37 **** Incremental Build of configuration Debug for project types ****
+make all 
+Building file: ../src/types.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/types.d" -MT"src/types.o" -o "src/types.o" "../src/types.cpp"
+../src/types.cpp:19:9: warning: unused variable 'pi' [-Wunused-variable]
+        double pi = 3.14;
+               ^
+../src/types.cpp:20:7: warning: unused variable 'logicalValue' [-Wunused-variable]
+        bool logicalValue = false;
+             ^
+../src/types.cpp:21:7: warning: unused variable 'synbol' [-Wunused-variable]
+        char synbol = 'Z';
+             ^
+../src/types.cpp:18:6: warning: unused variable 'x' [-Wunused-variable]
+        int x = 5;
+            ^
+4 warnings generated.
+Finished building: ../src/types.cpp
+ 
+Building target: types
+Invoking: MacOS X C++ Linker
+g++  -o "types"  ./src/types.o   
+Finished building target: types
+ 
+
+23:57:38 Build Finished (took 969ms)
+
