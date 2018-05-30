@@ -18,7 +18,7 @@ void Print(const vector<string>& names,
            const vector<double>& values,
            int width) {
     for (const string& name : names) {
-        cout << setw(width) << name << " ";
+        l << name << " ";
     }
     cout << endl;
     cout << fixed << setprecision(2);
