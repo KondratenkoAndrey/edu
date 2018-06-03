@@ -44,6 +44,7 @@ int main(int argc, const char * argv[]) {
 
     durSS >> someDuration;
     cout << someDuration << endl;
+    cout << "test string"; 
     
     return 0;
 }
