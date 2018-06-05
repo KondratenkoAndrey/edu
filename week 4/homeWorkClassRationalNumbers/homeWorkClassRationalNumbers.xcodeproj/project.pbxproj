@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5507E11920C69A1E0065C9B7 /* rational_mult_div.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5507E11820C69A1E0065C9B7 /* rational_mult_div.cpp */; };
+		5507E11B20C69B800065C9B7 /* rational_io.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5507E11A20C69B800065C9B7 /* rational_io.cpp */; };
+		5507E11D20C724820065C9B7 /* rational_map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5507E11C20C724820065C9B7 /* rational_map.cpp */; };
 		5599565C20C4697900F3449C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5599565B20C4697900F3449C /* main.cpp */; };
 		5599566820C46B2C00F3449C /* rational_interface.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5599566320C46B2C00F3449C /* rational_interface.cpp */; };
 		5599566E20C48B2F00F3449C /* rational_eq_add_sub.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5599566D20C48B2F00F3449C /* rational_eq_add_sub.cpp */; };
@@ -25,6 +28,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5507E11820C69A1E0065C9B7 /* rational_mult_div.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rational_mult_div.cpp; sourceTree = "<group>"; };
+		5507E11A20C69B800065C9B7 /* rational_io.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rational_io.cpp; sourceTree = "<group>"; };
+		5507E11C20C724820065C9B7 /* rational_map.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rational_map.cpp; sourceTree = "<group>"; };
 		5599565820C4697900F3449C /* homeWorkClassRationalNumbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homeWorkClassRationalNumbers; sourceTree = BUILT_PRODUCTS_DIR; };
 		5599565B20C4697900F3449C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5599566220C469A300F3449C /* task.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = task.txt; sourceTree = "<group>"; };
@@ -62,6 +68,9 @@
 		5599565A20C4697900F3449C /* homeWorkClassRationalNumbers */ = {
 			isa = PBXGroup;
 			children = (
+				5507E11C20C724820065C9B7 /* rational_map.cpp */,
+				5507E11A20C69B800065C9B7 /* rational_io.cpp */,
+				5507E11820C69A1E0065C9B7 /* rational_mult_div.cpp */,
 				5599566D20C48B2F00F3449C /* rational_eq_add_sub.cpp */,
 				5599566320C46B2C00F3449C /* rational_interface.cpp */,
 				5599565B20C4697900F3449C /* main.cpp */,
@@ -126,9 +135,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5507E11D20C724820065C9B7 /* rational_map.cpp in Sources */,
+				5507E11B20C69B800065C9B7 /* rational_io.cpp in Sources */,
 				5599565C20C4697900F3449C /* main.cpp in Sources */,
 				5599566820C46B2C00F3449C /* rational_interface.cpp in Sources */,
 				5599566E20C48B2F00F3449C /* rational_eq_add_sub.cpp in Sources */,
+				5507E11920C69A1E0065C9B7 /* rational_mult_div.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
