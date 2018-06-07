@@ -11,6 +11,8 @@ string AskTimeServer() {
     */
     
 //    return "00:10:20";
+//    throw system_error(error_code());
+//    throw runtime_error("other error");
     return "20:30:40";
     
     
@@ -25,7 +27,15 @@ public:
             поля LastFetchedTime
             * если AskTimeServer() бросила другое исключение, пробросьте его дальше.
         */
-        string currentTime = AskTimeServer();
+        
+        string currentTime = LastFetchedTime;
+        
+        try {
+            currentTime = AskTimeServer();
+        } catch (system_error&) {
+            return currentTime;
+        }
+
         LastFetchedTime = currentTime;
         return currentTime;
     }
