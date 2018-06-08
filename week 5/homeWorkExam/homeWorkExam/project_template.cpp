@@ -15,8 +15,8 @@
 
 using namespace std;
 
+#pragma mark - Date class
 class Date {
-    
 public:
     Date() {
         year = 0;
@@ -25,23 +25,18 @@ public:
     };
     
     Date(const string& dateString) {
+        
         int y, m, d;
         stringstream stream(dateString);
+        
         stream >> y;
-        char c;
-        c = stream.peek();
-        if (c != '-') {
-            throw runtime_error("Wrong date format: " + dateString);
-        }
+        checkNextSymbol(stream, dateString);
         stream.ignore(1);
         stream >> m;
-        c = stream.peek();
-        if (c != '-') {
-            throw runtime_error("Wrong date format: " + dateString);
-        }
+        checkNextSymbol(stream, dateString);
         stream.ignore(1);
-        c = stream.peek();
         stream >> d;
+        checkLastSymbol(stream, dateString);
 
         if (m < 1 || m > 12) {
             throw runtime_error("Month value is invalid: " + to_string(m));
@@ -70,8 +65,27 @@ private:
     int month;
     int day;
     
+    bool checkNextSymbol(stringstream& stream, const string& dateString) {
+        char c;
+        c = stream.peek();
+        if (c != '-') {
+            throw runtime_error("Wrong date format: " + dateString);
+        }
+        return true;
+    };
+    
+    bool checkLastSymbol(stringstream& stream, const string& dateString) {
+        char c;
+        c = stream.peek();
+        if (c != EOF) {
+            throw runtime_error("Wrong date format: " + dateString);
+        }
+        return true;
+    };
+    
 };
 
+#pragma mark - overloading operators
 bool operator<(const Date& lhs, const Date& rhs) {
     if (lhs.GetYear() < rhs.GetYear()) {
         return true;
@@ -100,6 +114,7 @@ ostream& operator<< (ostream& stream, const Date& date) {
     return stream;
 }
 
+#pragma mark - Database class
 class Database {
     
 public:
@@ -107,16 +122,39 @@ public:
         db[date].insert(event);
     }
     
-    bool DeleteEvent(const Date& date, const string& event);
-    int  DeleteDate(const Date& date);
-    set<string> Find(const Date& date) const;
+    bool DeleteEvent(const Date& date, const string& event) {
+        
+        if (db[date].count(event) > 0) {
+            db[date].erase(event);
+            if (db[date].size() == 0) {
+                db.erase(date);
+            }
+            return  true;
+        }
+        return false;
+        
+    }
+    
+    void DeleteDate(const Date& date){
+        
+        if(db.find(date)!=db.end()){
+            cout<<"Deleted "<<db.at(date).size()<<" events"<<endl;
+            db.erase(date);
+        }else{
+            cout<<"Deleted 0 events"<<endl;
+        }
+        
+    }
+    
+    set<string> Find(const Date& date) const {
+        return db.at(date);
+    }
     
     void Print() const {
         for (const auto& dbItem : db) {
             for (const string& event : dbItem.second) {
                 cout << dbItem.first << " " << event << endl;
             }
-            
         }
     }
     
@@ -124,12 +162,15 @@ private:
     map<Date, set<string>> db;
 };
 
+#pragma mark - main function
 int main() {
     
   Database db;
 
   string commandLine;
+    
   while (getline(cin, commandLine)) {
+      
       stringstream stream(commandLine);
       string command;
       stream >> command;
@@ -139,19 +180,71 @@ int main() {
           string event;
           stream >> dateString >> event;
           try {
-              db.AddEvent(dateString, event);
+              db.AddEvent(Date(dateString), event);
           } catch (runtime_error& e) {
               cout << e.what() << endl;
               return 0;
           }
           
       } else if (command == "Del") {
-          реализовать
+
+          string dateString;
+          stream >> dateString;
+          Date dateToDelete;
+          
+          try {
+              dateToDelete = dateString;
+          } catch (runtime_error& e) {
+              cout << e.what() << endl;
+              return 0;
+          }
+          
+          string eventToDelete;
+          stream >> eventToDelete;
+          
+          if (eventToDelete != "") {
+              try {
+                  if (db.DeleteEvent(dateToDelete, eventToDelete)) {
+                      cout << "Deleted successfully" << endl;
+                  } else {
+                      cout << "Event not found" << endl;
+                  }
+              } catch (out_of_range&) {
+                  cout << "Not found date: " << dateString << endl;
+                  return 0;
+              }
+              
+          } else {
+                db.DeleteDate(dateToDelete);
+          }
+
       } else if (command == "Find") {
-          реализовать
+          
+          string dateString;
+          stream >> dateString;
+          Date dateToFind;
+          
+          try {
+              dateToFind = dateString;
+          } catch (runtime_error& e) {
+              cout << e.what() << endl;
+              return 0;
+          }
+          
+          set<string> events;
+          
+          try {
+              events = db.Find(dateToFind);
+          } catch (out_of_range&) {
+          }
+          
+          for (const string& event : events) {
+              cout << event << endl;
+          }
+          
       } else if (command == "Print") {
           db.Print();
-      } else {
+      } else if (command != "") {
           cout << "Unknown command: " << command << endl;
           return 0;
       }
