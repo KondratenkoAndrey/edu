@@ -1,0 +1,12 @@
+/Users/andrey/Documents/Dev/dotNET/homeWorkLesson4/homeWorkLesson4.1/bin/Debug/homeWorkLesson4.1.exe
+/Users/andrey/Documents/Dev/dotNET/homeWorkLesson4/homeWorkLesson4.1/bin/Debug/homeWorkLesson4.1.pdb
+/Users/andrey/Documents/Dev/dotNET/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.csprojResolveAssemblyReference.cache
+/Users/andrey/Documents/Dev/dotNET/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.csproj.CoreCompileInputs.cache
+/Users/andrey/Documents/Dev/dotNET/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.exe
+/Users/andrey/Documents/Dev/dotNET/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson4/homeWorkLesson4.1/bin/Debug/homeWorkLesson4.1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson4/homeWorkLesson4.1/bin/Debug/homeWorkLesson4.1.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson4/homeWorkLesson4.1/obj/x86/Debug/homeWorkLesson4.1.pdb
