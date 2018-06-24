@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/sumOfArraysElements/bin/Debug/sumOfArraysElements.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/sumOfArraysElements/bin/Debug/sumOfArraysElements.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/sumOfArraysElements/obj/x86/Debug/sumOfArraysElements.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/sumOfArraysElements/obj/x86/Debug/sumOfArraysElements.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/sumOfArraysElements/obj/x86/Debug/sumOfArraysElements.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/sumOfArraysElements/obj/x86/Debug/sumOfArraysElements.csprojResolveAssemblyReference.cache

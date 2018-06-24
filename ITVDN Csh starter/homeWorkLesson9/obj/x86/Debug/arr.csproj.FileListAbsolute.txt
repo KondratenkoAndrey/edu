@@ -1,0 +1,12 @@
+/Users/andrey/dev/dotNET/ITVDN Csh starter/009_Arrays/001_Arrays/arr/obj/x86/Debug/arr.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/ITVDN Csh starter/009_Arrays/001_Arrays/arr/obj/x86/Debug/arr.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/ITVDN Csh starter/009_Arrays/001_Arrays/arr/bin/Debug/arr.exe
+/Users/andrey/dev/dotNET/ITVDN Csh starter/009_Arrays/001_Arrays/arr/bin/Debug/arr.pdb
+/Users/andrey/dev/dotNET/ITVDN Csh starter/009_Arrays/001_Arrays/arr/obj/x86/Debug/arr.exe
+/Users/andrey/dev/dotNET/ITVDN Csh starter/009_Arrays/001_Arrays/arr/obj/x86/Debug/arr.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/bin/Debug/arr.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/bin/Debug/arr.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/obj/x86/Debug/arr.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/obj/x86/Debug/arr.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/obj/x86/Debug/arr.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson9/obj/x86/Debug/arr.pdb
