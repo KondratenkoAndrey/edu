@@ -1,14 +1,20 @@
-﻿<Properties StartupConfiguration="{308FA6F7-E151-4F18-9EB0-2362F9BCB768}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="homeWorkLesson3/Program.cs">
+﻿<Properties StartupConfiguration="{E0BB70E2-474A-4474-918D-A6FA9E5C8082}|Default">
+  <MonoDevelop.Ide.ItemProperties.homeWorkLesson3.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="homeWorkLesson3.4/Program.cs">
     <Files>
-      <File FileName="homeWorkLesson3/Program.cs" Line="35" Column="13" />
+      <File FileName="homeWorkLesson3.3/Program.cs" Line="19" Column="56" />
+      <File FileName="homeWorkLesson3.1/Program.cs" Line="19" Column="40" />
+      <File FileName="homeWorkLesson3.4/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.homeWorkLesson3.1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.homeWorkLesson3.4 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.homeWorkLesson3.3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.homeWorkLesson3.0 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
