@@ -1,0 +1,5 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson2/homeWorkLesson2.2/bin/Debug/homeWorkLesson2.2.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson2/homeWorkLesson2.2/bin/Debug/homeWorkLesson2.2.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson2/homeWorkLesson2.2/obj/x86/Debug/homeWorkLesson2.2.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson2/homeWorkLesson2.2/obj/x86/Debug/homeWorkLesson2.2.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson2/homeWorkLesson2.2/obj/x86/Debug/homeWorkLesson2.2.pdb
