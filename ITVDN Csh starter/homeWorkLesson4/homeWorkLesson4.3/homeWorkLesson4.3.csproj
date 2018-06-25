@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{985123C9-182B-44C0-A7D1-02FE2BEE7427}</ProjectGuid>
+    <ProjectGuid>{93A8B33E-1A6F-4320-A0F3-9F11EFDDBEE7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>homeWorkLesson4</RootNamespace>
-    <AssemblyName>homeWorkLesson4.2</AssemblyName>
+    <AssemblyName>homeWorkLesson4.3</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

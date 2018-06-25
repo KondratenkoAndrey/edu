@@ -1,7 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWorkLesson4.2", "homeWorkLesson4.2\homeWorkLesson4.2.csproj", "{E9BF275D-7BDC-4F6B-A09D-07402FA5AFA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWorkLesson4.02", "homeWorkLesson4.02\homeWorkLesson4.02.csproj", "{E9BF275D-7BDC-4F6B-A09D-07402FA5AFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWorkLesson4.2", "homeWorkLesson4.2\homeWorkLesson4.2.csproj", "{985123C9-182B-44C0-A7D1-02FE2BEE7427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWorkLesson4.3", "homeWorkLesson4.3\homeWorkLesson4.3.csproj", "{93A8B33E-1A6F-4320-A0F3-9F11EFDDBEE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +17,13 @@ Global
 		{E9BF275D-7BDC-4F6B-A09D-07402FA5AFA4}.Debug|x86.Build.0 = Debug|x86
 		{E9BF275D-7BDC-4F6B-A09D-07402FA5AFA4}.Release|x86.ActiveCfg = Release|x86
 		{E9BF275D-7BDC-4F6B-A09D-07402FA5AFA4}.Release|x86.Build.0 = Release|x86
+		{985123C9-182B-44C0-A7D1-02FE2BEE7427}.Debug|x86.ActiveCfg = Debug|x86
+		{985123C9-182B-44C0-A7D1-02FE2BEE7427}.Debug|x86.Build.0 = Debug|x86
+		{985123C9-182B-44C0-A7D1-02FE2BEE7427}.Release|x86.ActiveCfg = Release|x86
+		{985123C9-182B-44C0-A7D1-02FE2BEE7427}.Release|x86.Build.0 = Release|x86
+		{93A8B33E-1A6F-4320-A0F3-9F11EFDDBEE7}.Debug|x86.ActiveCfg = Debug|x86
+		{93A8B33E-1A6F-4320-A0F3-9F11EFDDBEE7}.Debug|x86.Build.0 = Debug|x86
+		{93A8B33E-1A6F-4320-A0F3-9F11EFDDBEE7}.Release|x86.ActiveCfg = Release|x86
+		{93A8B33E-1A6F-4320-A0F3-9F11EFDDBEE7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
