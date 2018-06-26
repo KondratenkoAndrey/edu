@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.3/bin/Debug/7.3.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.3/bin/Debug/7.3.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.3/obj/x86/Debug/7.3.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.3/obj/x86/Debug/7.3.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.3/obj/x86/Debug/7.3.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.3/obj/x86/Debug/7.3.csprojResolveAssemblyReference.cache
