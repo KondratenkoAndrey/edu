@@ -1,0 +1,9 @@
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/bin/Debug/SquareEveryDigit.exe
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/bin/Debug/SquareEveryDigit.pdb
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/obj/x86/Debug/SquareEveryDigit.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/obj/x86/Debug/SquareEveryDigit.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/obj/x86/Debug/SquareEveryDigit.exe
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/obj/x86/Debug/SquareEveryDigit.pdb
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/bin/Debug/nunit.framework.dll
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/bin/Debug/nunit.framework.pdb
+/Users/andrey/dev/dotNET/codeWars/SquareEveryDigit/SquareEveryDigit/bin/Debug/nunit.framework.xml

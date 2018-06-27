@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{97F0B148-8B39-4D18-A91D-C4304D92D828}|Default">
+  <MonoDevelop.Ide.ItemProperties.SquareEveryDigit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SquareEveryDigit/Program.cs">
+    <Files>
+      <File FileName="SquareEveryDigit/Program.cs" Line="12" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SquareEveryDigit" expanded="True">
+            <Node name="SquareEveryDigit" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
