@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2", "8.2\8.2.csproj", "{70568444-122B-49D3-BD69-6EB030ABE660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.3", "8.3\8.3.csproj", "{711108FB-DF35-4623-8BA9-AB0B1BBB7BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70568444-122B-49D3-BD69-6EB030ABE660}.Debug|x86.ActiveCfg = Debug|x86
+		{70568444-122B-49D3-BD69-6EB030ABE660}.Debug|x86.Build.0 = Debug|x86
+		{70568444-122B-49D3-BD69-6EB030ABE660}.Release|x86.ActiveCfg = Release|x86
+		{70568444-122B-49D3-BD69-6EB030ABE660}.Release|x86.Build.0 = Release|x86
+		{711108FB-DF35-4623-8BA9-AB0B1BBB7BB5}.Debug|x86.ActiveCfg = Debug|x86
+		{711108FB-DF35-4623-8BA9-AB0B1BBB7BB5}.Debug|x86.Build.0 = Debug|x86
+		{711108FB-DF35-4623-8BA9-AB0B1BBB7BB5}.Release|x86.ActiveCfg = Release|x86
+		{711108FB-DF35-4623-8BA9-AB0B1BBB7BB5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
