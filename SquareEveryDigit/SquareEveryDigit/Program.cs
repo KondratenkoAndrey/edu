@@ -19,27 +19,53 @@ namespace SquareEveryDigit
     
     class MainClass
     {
-        public static int SquareDigits(int n)
+        //решение со строками
+        public static int SquareDigitsOverString(int n)
         {
-            //можно решать проще, через строки, но это уже не совсем математика
-            //в таком вариаенте не работает с нулем, есть решение для 1 нуля, оно громоздкое, для несколько подряд идущих нолей все плохо...
-            int result = 0;
+            
+            string result = "";
+
+            foreach (var chr in n.ToString())
+            {
+                result += Math.Pow(int.Parse(chr.ToString()), 2).ToString();
+            }
+
+            return Convert.ToInt32(result);
+
+        } 
+
+        //решение без строк
+        public static int SquareDigitsOverInt(int n)
+        {
+            
+            int result = 0, digit = 0, tens = 0;
+            int multiplier = 1;
 
             while (n != 0)
             {
-                //берем последнюю цифру, возводим в квадрат и добавляем предидущий результат, увеличенный на количество порядков, равное количеству знаков
-                result += (int)Math.Pow(n % 10, 2) * ((result == 0) ? 1 : (int)Math.Pow(10, (int)(Math.Log10(result) + 1)));
+                //цифра возведенная в квадрат
+                digit = (int)Math.Pow(n % 10, 2); 
+
+                //добавление порядка к цифре в зависимости от ее положения в итоговом числе
+                tens = ((result == 0) ? 1 : (int)Math.Pow(10, (int)(Math.Log10(result) + 1)));
+
+                result += multiplier * digit * tens; 
+
+                //множитель, увеличивающий порядок в том случае, если предидущая цифра была 0
+                multiplier = (n % 10 == 0 ? multiplier * 10 : 1);
+
                 //отбрасываем последнюю цифру
                 n /= 10;
             }
 
             return result;
 
-        } 
+        }
 
         public static void Main(string[] args)
         {
-            Console.WriteLine(SquareDigits(2));
+            Console.WriteLine(SquareDigitsOverInt(90709));
+            Console.WriteLine(SquareDigitsOverString(90709));
         }
     }
 }
