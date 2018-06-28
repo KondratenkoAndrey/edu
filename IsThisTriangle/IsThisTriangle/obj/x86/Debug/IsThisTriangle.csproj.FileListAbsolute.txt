@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/codeWars/IsThisTriangle/IsThisTriangle/bin/Debug/IsThisTriangle.exe
+/Users/andrey/dev/dotNET/codeWars/IsThisTriangle/IsThisTriangle/bin/Debug/IsThisTriangle.pdb
+/Users/andrey/dev/dotNET/codeWars/IsThisTriangle/IsThisTriangle/obj/x86/Debug/IsThisTriangle.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/IsThisTriangle/IsThisTriangle/obj/x86/Debug/IsThisTriangle.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/IsThisTriangle/IsThisTriangle/obj/x86/Debug/IsThisTriangle.exe
+/Users/andrey/dev/dotNET/codeWars/IsThisTriangle/IsThisTriangle/obj/x86/Debug/IsThisTriangle.pdb
