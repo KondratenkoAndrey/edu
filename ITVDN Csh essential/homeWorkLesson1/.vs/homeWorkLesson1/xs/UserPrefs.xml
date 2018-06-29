@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{2962A670-3684-440B-97BC-879235F64C48}|Default">
+﻿<Properties StartupConfiguration="{7C0C9703-C180-4119-98ED-0EE7709B5E50}|Default">
   <MonoDevelop.Ide.ItemProperties.1.1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="1.1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.2/Rectangle.cs">
     <Files>
-      <File FileName="1.1/Address.cs" Line="1" Column="1" />
-      <File FileName="1.1/Program.cs" Line="17" Column="13" NotebookId="1" />
+      <File FileName="1.2/Rectangle.cs" Line="17" Column="9" />
+      <File FileName="1.2/Program.cs" Line="19" Column="2" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -11,5 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.1.2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
