@@ -36,9 +36,9 @@ namespace Application
         public int House { get; set; }
         public int Apartment { get; set; }
 
-        public void PrintAddress()
+        public string getString()
         {
-            Console.WriteLine("{0}, {1}, {2}, {3} street, house {4}, apartment {5}",
+            return string.Format("{0}, {1}, {2}, {3} street, house {4}, apartment {5}",
                              Index,
                              Country,
                              City,

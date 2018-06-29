@@ -20,8 +20,8 @@ namespace Application
                                              "Main",
                                              23,
                                               154);
-            someAddress.PrintAddress();            
-        
+            Console.WriteLine(someAddress.getString());
+
         }
     }
 }
