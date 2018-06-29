@@ -13,16 +13,13 @@ namespace IsThisTriangle
     {
         public static void Main(string[] args)
         {
-            int a = 0, b = 0, c = 0;
-            Random rnd = new Random();
-
-            for (int i = 0; i < 100; i++) {
-                a = rnd.Next(1, 100);
-                b = rnd.Next(1, 100);
-                c = rnd.Next(1, 100);
-                Console.WriteLine(Triangle.IsTriangle(a, b, c));
-            }
-
+            Console.WriteLine(Triangle.IsTriangle(-1, 1, 1));
+            Console.WriteLine(Triangle.IsTriangle(1, 0, 3));
+            Console.WriteLine(Triangle.IsTriangle(1, 1, 10));
+            Console.WriteLine(Triangle.IsTriangle(2, 15, 3));
+            Console.WriteLine(Triangle.IsTriangle(1000, 1, 1));
+            Console.WriteLine(Triangle.IsTriangle(10, 10, 10));
+            Console.WriteLine(Triangle.IsTriangle(3, 4, 5));
         }
     }
 }
