@@ -1,11 +1,13 @@
-﻿<Properties StartupConfiguration="{20093ED5-196D-4D87-AB9A-D946AA959A54}|Default">
+﻿<Properties StartupConfiguration="{20A7973F-735C-4357-97D8-9DD96E27CD8E}|Default">
   <MonoDevelop.Ide.ItemProperties.1.1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="1.3/Book/Book.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.4/Program.cs">
     <Files>
-      <File FileName="1.3/Book/Book.cs" Line="11" Column="18" />
-      <File FileName="1.3/Program.cs" Line="26" Column="29" NotebookId="1" />
+      <File FileName="1.4/Point.cs" Line="12" Column="6" />
+      <File FileName="1.4/Figure.cs" Line="59" Column="61" />
+      <File FileName="1.4/Program.cs" Line="30" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1.4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
