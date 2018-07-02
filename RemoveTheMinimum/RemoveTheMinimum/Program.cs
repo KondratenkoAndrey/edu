@@ -14,7 +14,7 @@ namespace RemoveTheMinimum
     {
         public static void Main(string[] args)
         {
-            List<int> list = new List<int> {};
+            List<int> list = new List<int> {2, 3, 1, 5, 9};
             List<int> changedList = Remover.RemoveSmallest(list);
 
         }
