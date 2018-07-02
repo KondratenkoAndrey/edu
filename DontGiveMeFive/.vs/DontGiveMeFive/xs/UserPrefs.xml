@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BCC130E5-4B8E-4854-9F54-332161876067}|Default">
+  <MonoDevelop.Ide.ItemProperties.DontGiveMeFive PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DontGiveMeFive/Kata.cs">
+    <Files>
+      <File FileName="DontGiveMeFive/Kata.cs" Line="13" Column="18" />
+      <File FileName="DontGiveMeFive/Program.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

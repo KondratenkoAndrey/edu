@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{527E40CC-4098-43F0-BA9E-2A7146CBFAF7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RemoveTheMinimum/Remover.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RemoveTheMinimum/Program.cs">
     <Files>
-      <File FileName="RemoveTheMinimum/Remover.cs" Line="25" Column="18" />
+      <File FileName="RemoveTheMinimum/Remover.cs" Line="50" Column="15" />
       <File FileName="RemoveTheMinimum/Program.cs" Line="23" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/Program.cs" relfile="RemoveTheMinimum/Program.cs" line="19" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.RemoveTheMinimum PreferredExecutionTarget="MonoDevelop.Default" />

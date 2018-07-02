@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/codeWars/DontGiveMeFive/DontGiveMeFive/bin/Debug/DontGiveMeFive.exe
+/Users/andrey/dev/dotNET/codeWars/DontGiveMeFive/DontGiveMeFive/bin/Debug/DontGiveMeFive.pdb
+/Users/andrey/dev/dotNET/codeWars/DontGiveMeFive/DontGiveMeFive/obj/x86/Debug/DontGiveMeFive.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/DontGiveMeFive/DontGiveMeFive/obj/x86/Debug/DontGiveMeFive.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/DontGiveMeFive/DontGiveMeFive/obj/x86/Debug/DontGiveMeFive.exe
+/Users/andrey/dev/dotNET/codeWars/DontGiveMeFive/DontGiveMeFive/obj/x86/Debug/DontGiveMeFive.pdb
