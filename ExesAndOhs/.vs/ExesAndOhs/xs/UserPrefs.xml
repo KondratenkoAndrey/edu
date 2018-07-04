@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DCA7608C-75EE-4DF6-B664-4C55BD6B9B47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExesAndOhs/Kata.cs">
+    <Files>
+      <File FileName="ExesAndOhs/Kata.cs" Line="9" Column="21" />
+      <File FileName="ExesAndOhs/Program.cs" Line="16" Column="42" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExesAndOhs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
