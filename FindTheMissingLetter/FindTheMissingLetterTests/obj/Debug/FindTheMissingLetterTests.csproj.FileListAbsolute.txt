@@ -1,0 +1,10 @@
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/bin/Debug/FindTheMissingLetterTests.dll
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/bin/Debug/FindTheMissingLetterTests.pdb
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/bin/Debug/nunit.framework.dll
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/bin/Debug/nunit.framework.xml
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/obj/Debug/FindTheMissingLetterTests.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/obj/Debug/FindTheMissingLetterTests.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/obj/Debug/FindTheMissingLetterTests.dll
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/obj/Debug/FindTheMissingLetterTests.pdb
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/bin/Debug/FindTheMissingLetter.exe
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetterTests/bin/Debug/FindTheMissingLetter.pdb

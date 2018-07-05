@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetter/bin/Debug/FindTheMissingLetter.exe
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetter/bin/Debug/FindTheMissingLetter.pdb
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetter/obj/x86/Debug/FindTheMissingLetter.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetter/obj/x86/Debug/FindTheMissingLetter.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetter/obj/x86/Debug/FindTheMissingLetter.exe
+/Users/andrey/dev/dotNET/codeWars/FindTheMissingLetter/FindTheMissingLetter/obj/x86/Debug/FindTheMissingLetter.pdb
