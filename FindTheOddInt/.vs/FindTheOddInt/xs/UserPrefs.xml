@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CD36BF53-57C8-4ED2-97F9-6565BBB1AFA6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindTheOddInt/Kata.cs">
+    <Files>
+      <File FileName="FindTheOddInt/Kata.cs" Line="28" Column="14" />
+      <File FileName="FindTheOddIntTests/KataTests.cs" Line="14" Column="6" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FindTheOddInt" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FindTheOddInt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

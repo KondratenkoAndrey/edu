@@ -1,0 +1,10 @@
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/obj/Debug/FindTheOddIntTests.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/obj/Debug/FindTheOddIntTests.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/bin/Debug/FindTheOddIntTests.dll
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/bin/Debug/FindTheOddIntTests.pdb
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/bin/Debug/FindTheOddInt.exe
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/bin/Debug/nunit.framework.dll
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/bin/Debug/FindTheOddInt.pdb
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/bin/Debug/nunit.framework.xml
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/obj/Debug/FindTheOddIntTests.dll
+/Users/andrey/dev/dotNET/codeWars/FindTheOddInt/FindTheOddIntTests/obj/Debug/FindTheOddIntTests.pdb
