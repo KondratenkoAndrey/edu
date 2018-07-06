@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{7551FB90-55A7-46FF-A304-FAD7022397B0}|Default">
+﻿<Properties StartupConfiguration="{64D66301-70CC-475F-A750-1D5CDF8D91D9}|Default">
   <MonoDevelop.Ide.ItemProperties.2.1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="2.1/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.2/Program.cs">
     <Files>
-      <File FileName="2.1/User.cs" Line="35" Column="44" />
-      <File FileName="2.1/Program.cs" Line="21" Column="34" NotebookId="1" />
+      <File FileName="2.2/Converter.cs" Line="1" Column="1" />
+      <File FileName="2.2/Program.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -11,5 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2.2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
