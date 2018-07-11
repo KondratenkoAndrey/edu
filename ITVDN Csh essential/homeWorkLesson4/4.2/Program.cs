@@ -19,11 +19,13 @@ namespace Application
             {
                 throw new ArgumentException();
             }
+
             string extension = parts[parts.Length - 1];
             if (extension.Length < 1)
             {
                 throw new ArgumentException();
             }
+
             return extension.ToLower();
         }
 
