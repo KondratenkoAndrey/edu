@@ -1,8 +1,10 @@
-﻿<Properties StartupConfiguration="{BB6A2921-C622-426B-A11B-5DB95BFC5A48}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="5.2.Array/myArray.cs">
+﻿<Properties StartupConfiguration="{752D923C-C9F6-444A-B98C-41C3844C20E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.5.3.Indexers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.3.Indexers/Program.cs">
     <Files>
-      <File FileName="5.2.Array/myArray.cs" Line="39" Column="22" />
-      <File FileName="5.2.Array/Program.cs" Line="22" Column="1" NotebookId="1" />
+      <File FileName="5.3.Indexers/Article.cs" Line="22" Column="29" />
+      <File FileName="5.3.Indexers/Store.cs" Line="17" Column="1" />
+      <File FileName="5.3.Indexers/Program.cs" Line="25" Column="15" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

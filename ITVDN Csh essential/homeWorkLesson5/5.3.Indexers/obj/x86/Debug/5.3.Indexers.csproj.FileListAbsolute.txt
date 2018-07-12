@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.3.Indexers/obj/x86/Debug/5.3.Indexers.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.3.Indexers/obj/x86/Debug/5.3.Indexers.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.3.Indexers/bin/Debug/5.3.Indexers.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.3.Indexers/bin/Debug/5.3.Indexers.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.3.Indexers/obj/x86/Debug/5.3.Indexers.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.3.Indexers/obj/x86/Debug/5.3.Indexers.pdb
