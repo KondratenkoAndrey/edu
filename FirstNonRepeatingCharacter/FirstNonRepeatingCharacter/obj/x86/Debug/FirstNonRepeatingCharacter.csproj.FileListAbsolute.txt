@@ -1,0 +1,9 @@
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/bin/Debug/FirstNonRepeatingCharacter.exe
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/bin/Debug/FirstNonRepeatingCharacter.pdb
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/obj/x86/Debug/FirstNonRepeatingCharacter.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/obj/x86/Debug/FirstNonRepeatingCharacter.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/obj/x86/Debug/FirstNonRepeatingCharacter.exe
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/obj/x86/Debug/FirstNonRepeatingCharacter.pdb
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/bin/Debug/nunit.framework.dll
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/bin/Debug/nunit.framework.pdb
+/Users/andrey/dev/dotNET/codeWars/FirstNonRepeatingCharacter/FirstNonRepeatingCharacter/bin/Debug/nunit.framework.xml

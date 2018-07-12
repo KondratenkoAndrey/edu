@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{378FB38D-EFF4-4DCC-8F57-E3F59C45023E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstNonRepeatingCharacter/Kata.cs">
+    <Files>
+      <File FileName="FirstNonRepeatingCharacter/Kata.cs" Line="25" Column="18" />
+      <File FileName="FirstNonRepeatingCharacter/task.txt" Line="11" Column="51" NotebookId="1" />
+      <File FileName="FirstNonRepeatingCharacter/Program.cs" Line="17" Column="1" NotebookId="1" />
+      <File FileName="FirstNonRepeatingCharacter/KataTests.cs" Line="24" Column="13" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstNonRepeatingCharacter" expanded="True">
+            <Node name="FirstNonRepeatingCharacter" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Packages" expanded="True" />
+              <Node name="Kata.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FirstNonRepeatingCharacter" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.FirstNonRepeatingCharacter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
