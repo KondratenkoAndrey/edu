@@ -1,11 +1,6 @@
 ﻿<Properties StartupConfiguration="{691026CD-F1B3-46F0-9F81-713134AB02EE}|Default">
   <MonoDevelop.Ide.ItemProperties.StaticClasses__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StaticClasses_1/Calculator.cs">
-    <Files>
-      <File FileName="StaticClasses_1/Calculator.cs" Line="34" Column="1" />
-      <File FileName="StaticClasses_1/Program.cs" Line="19" Column="51" NotebookId="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
