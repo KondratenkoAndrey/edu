@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanReadableTime", "HumanReadableTime\HumanReadableTime.csproj", "{1CED5195-60D6-49EA-B0CA-A8D6C01E3458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CED5195-60D6-49EA-B0CA-A8D6C01E3458}.Debug|x86.ActiveCfg = Debug|x86
+		{1CED5195-60D6-49EA-B0CA-A8D6C01E3458}.Debug|x86.Build.0 = Debug|x86
+		{1CED5195-60D6-49EA-B0CA-A8D6C01E3458}.Release|x86.ActiveCfg = Release|x86
+		{1CED5195-60D6-49EA-B0CA-A8D6C01E3458}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

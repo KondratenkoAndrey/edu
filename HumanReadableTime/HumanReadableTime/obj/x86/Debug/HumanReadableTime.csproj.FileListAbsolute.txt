@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/codeWars/HumanReadableTime/HumanReadableTime/bin/Debug/HumanReadableTime.exe
+/Users/andrey/dev/dotNET/codeWars/HumanReadableTime/HumanReadableTime/bin/Debug/HumanReadableTime.pdb
+/Users/andrey/dev/dotNET/codeWars/HumanReadableTime/HumanReadableTime/obj/x86/Debug/HumanReadableTime.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/HumanReadableTime/HumanReadableTime/obj/x86/Debug/HumanReadableTime.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/HumanReadableTime/HumanReadableTime/obj/x86/Debug/HumanReadableTime.exe
+/Users/andrey/dev/dotNET/codeWars/HumanReadableTime/HumanReadableTime/obj/x86/Debug/HumanReadableTime.pdb
