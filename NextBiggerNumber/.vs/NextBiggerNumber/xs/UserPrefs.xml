@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E466EF22-0993-416C-BA1A-CC4B25AC7FF5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NextBiggerNumber/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NextBiggerNumber/Kata.cs">
     <Files>
-      <File FileName="NextBiggerNumber/Kata.cs" Line="26" Column="17" />
+      <File FileName="NextBiggerNumber/Kata.cs" Line="9" Column="34" />
       <File FileName="NextBiggerNumber/Task.txt" Line="11" Column="31" NotebookId="1" />
       <File FileName="NextBiggerNumber/Program.cs" Line="16" Column="13" NotebookId="1" />
     </Files>

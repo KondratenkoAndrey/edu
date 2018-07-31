@@ -7,7 +7,6 @@
 // Copyright (c) 2018 Andrey Kondratenko
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace NextBiggerNumber
 {
