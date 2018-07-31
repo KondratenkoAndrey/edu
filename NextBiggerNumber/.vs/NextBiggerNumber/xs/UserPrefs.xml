@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E466EF22-0993-416C-BA1A-CC4B25AC7FF5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NextBiggerNumber/Program.cs">
+    <Files>
+      <File FileName="NextBiggerNumber/Kata.cs" Line="26" Column="17" />
+      <File FileName="NextBiggerNumber/Task.txt" Line="11" Column="31" NotebookId="1" />
+      <File FileName="NextBiggerNumber/Program.cs" Line="16" Column="13" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NextBiggerNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/codeWars/NextBiggerNumber/NextBiggerNumber/bin/Debug/NextBiggerNumber.exe
+/Users/andrey/dev/dotNET/codeWars/NextBiggerNumber/NextBiggerNumber/bin/Debug/NextBiggerNumber.pdb
+/Users/andrey/dev/dotNET/codeWars/NextBiggerNumber/NextBiggerNumber/obj/x86/Debug/NextBiggerNumber.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/NextBiggerNumber/NextBiggerNumber/obj/x86/Debug/NextBiggerNumber.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/NextBiggerNumber/NextBiggerNumber/obj/x86/Debug/NextBiggerNumber.exe
+/Users/andrey/dev/dotNET/codeWars/NextBiggerNumber/NextBiggerNumber/obj/x86/Debug/NextBiggerNumber.pdb
