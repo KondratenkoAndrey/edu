@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{ACD18A81-4190-41D7-9022-5660BB06FF45}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DateTime_1/Program.cs">
+﻿<Properties StartupConfiguration="{5454B789-A230-469C-8B0D-96D01448B027}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="DateTime_1/Program.cs" Line="25" Column="72" />
-      <File FileName="DateTime_1/DateOfBirth.cs" Line="22" Column="6" />
+      <File FileName="Enums_1/Printer.cs" Line="22" Column="20" />
+      <File FileName="Enums_1/Program.cs" Line="20" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -12,4 +12,6 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.DateTime__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Enums__2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Enums__1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
