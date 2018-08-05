@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/40_Delegates/bin/Debug/40_Delegates.exe
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/40_Delegates/bin/Debug/40_Delegates.pdb
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/40_Delegates/obj/x86/Debug/40_Delegates.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/40_Delegates/obj/x86/Debug/40_Delegates.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/40_Delegates/obj/x86/Debug/40_Delegates.exe
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/40_Delegates/obj/x86/Debug/40_Delegates.pdb

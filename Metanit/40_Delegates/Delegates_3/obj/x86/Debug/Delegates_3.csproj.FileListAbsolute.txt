@@ -1,0 +1,5 @@
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/Delegates_3/bin/Debug/Delegates_3.exe
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/Delegates_3/bin/Debug/Delegates_3.pdb
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/Delegates_3/obj/x86/Debug/Delegates_3.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/Delegates_3/obj/x86/Debug/Delegates_3.exe
+/Users/andrey/dev/dotNET/edu/Metanit/40_Delegates/Delegates_3/obj/x86/Debug/Delegates_3.pdb
