@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/codeWars/RoundBy0.5Steps/RoundBy0.5Steps/bin/Debug/RoundBy0.5Steps.exe
+/Users/andrey/dev/dotNET/codeWars/RoundBy0.5Steps/RoundBy0.5Steps/bin/Debug/RoundBy0.5Steps.pdb
+/Users/andrey/dev/dotNET/codeWars/RoundBy0.5Steps/RoundBy0.5Steps/obj/x86/Debug/RoundBy0.5Steps.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/codeWars/RoundBy0.5Steps/RoundBy0.5Steps/obj/x86/Debug/RoundBy0.5Steps.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/codeWars/RoundBy0.5Steps/RoundBy0.5Steps/obj/x86/Debug/RoundBy0.5Steps.exe
+/Users/andrey/dev/dotNET/codeWars/RoundBy0.5Steps/RoundBy0.5Steps/obj/x86/Debug/RoundBy0.5Steps.pdb
