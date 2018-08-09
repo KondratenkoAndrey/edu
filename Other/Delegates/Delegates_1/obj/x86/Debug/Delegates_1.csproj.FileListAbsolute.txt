@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/Other/Delegates/Delegates_1/bin/Debug/Delegates_1.exe
+/Users/andrey/dev/dotNET/edu/Other/Delegates/Delegates_1/bin/Debug/Delegates_1.pdb
+/Users/andrey/dev/dotNET/edu/Other/Delegates/Delegates_1/obj/x86/Debug/Delegates_1.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/Other/Delegates/Delegates_1/obj/x86/Debug/Delegates_1.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/Other/Delegates/Delegates_1/obj/x86/Debug/Delegates_1.exe
+/Users/andrey/dev/dotNET/edu/Other/Delegates/Delegates_1/obj/x86/Debug/Delegates_1.pdb
