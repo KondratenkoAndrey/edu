@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.DirectionsReduction PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DirectionsReduction/DirReduction.cs">
     <Files>
-      <File FileName="DirectionsReduction/DirReduction.cs" Line="62" Column="26" />
+      <File FileName="DirectionsReduction/DirReduction.cs" Line="78" Column="10" />
       <File FileName="DirectionsReduction/Program.cs" Line="23" Column="86" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
