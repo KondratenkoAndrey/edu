@@ -1,6 +1,0 @@
-/Users/andrey/dev/dotNET/codeWars/DirectionsReduction/DirectionsReduction/obj/x86/Debug/DirectionsReduction.csprojResolveAssemblyReference.cache
-/Users/andrey/dev/dotNET/codeWars/DirectionsReduction/DirectionsReduction/obj/x86/Debug/DirectionsReduction.csproj.CoreCompileInputs.cache
-/Users/andrey/dev/dotNET/codeWars/DirectionsReduction/DirectionsReduction/bin/Debug/DirectionsReduction.exe
-/Users/andrey/dev/dotNET/codeWars/DirectionsReduction/DirectionsReduction/bin/Debug/DirectionsReduction.pdb
-/Users/andrey/dev/dotNET/codeWars/DirectionsReduction/DirectionsReduction/obj/x86/Debug/DirectionsReduction.exe
-/Users/andrey/dev/dotNET/codeWars/DirectionsReduction/DirectionsReduction/obj/x86/Debug/DirectionsReduction.pdb

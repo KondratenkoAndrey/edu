@@ -1,6 +1,0 @@
-/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/bin/Debug/RemoveTheMinimum.exe
-/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/bin/Debug/RemoveTheMinimum.pdb
-/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/obj/x86/Debug/RemoveTheMinimum.csprojResolveAssemblyReference.cache
-/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/obj/x86/Debug/RemoveTheMinimum.csproj.CoreCompileInputs.cache
-/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/obj/x86/Debug/RemoveTheMinimum.exe
-/Users/andrey/dev/dotNET/codeWars/RemoveTheMinimum/RemoveTheMinimum/obj/x86/Debug/RemoveTheMinimum.pdb

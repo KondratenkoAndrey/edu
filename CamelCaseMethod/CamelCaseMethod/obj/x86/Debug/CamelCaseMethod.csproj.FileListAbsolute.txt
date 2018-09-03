@@ -1,9 +1,0 @@
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/bin/Debug/CamelCaseMethod.exe
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/bin/Debug/CamelCaseMethod.pdb
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/obj/x86/Debug/CamelCaseMethod.csprojResolveAssemblyReference.cache
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/obj/x86/Debug/CamelCaseMethod.csproj.CoreCompileInputs.cache
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/obj/x86/Debug/CamelCaseMethod.exe
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/obj/x86/Debug/CamelCaseMethod.pdb
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/bin/Debug/nunit.framework.dll
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/bin/Debug/nunit.framework.pdb
-/Users/andrey/dev/dotNET/codeWars/CamelCaseMethod/CamelCaseMethod/bin/Debug/nunit.framework.xml
