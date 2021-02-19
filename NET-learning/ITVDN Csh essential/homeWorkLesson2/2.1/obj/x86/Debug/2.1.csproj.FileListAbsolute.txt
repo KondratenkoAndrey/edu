@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson2/2.1/obj/x86/Debug/2.1.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson2/2.1/obj/x86/Debug/2.1.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson2/2.1/bin/Debug/2.1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson2/2.1/bin/Debug/2.1.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson2/2.1/obj/x86/Debug/2.1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson2/2.1/obj/x86/Debug/2.1.pdb

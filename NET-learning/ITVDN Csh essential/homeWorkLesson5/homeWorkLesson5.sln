@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.Array", "5.2.Array\5.2.Array.csproj", "{BB6A2921-C622-426B-A11B-5DB95BFC5A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.Indexers", "5.3.Indexers\5.3.Indexers.csproj", "{752D923C-C9F6-444A-B98C-41C3844C20E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6A2921-C622-426B-A11B-5DB95BFC5A48}.Debug|x86.ActiveCfg = Debug|x86
+		{BB6A2921-C622-426B-A11B-5DB95BFC5A48}.Debug|x86.Build.0 = Debug|x86
+		{BB6A2921-C622-426B-A11B-5DB95BFC5A48}.Release|x86.ActiveCfg = Release|x86
+		{BB6A2921-C622-426B-A11B-5DB95BFC5A48}.Release|x86.Build.0 = Release|x86
+		{752D923C-C9F6-444A-B98C-41C3844C20E9}.Debug|x86.ActiveCfg = Debug|x86
+		{752D923C-C9F6-444A-B98C-41C3844C20E9}.Debug|x86.Build.0 = Debug|x86
+		{752D923C-C9F6-444A-B98C-41C3844C20E9}.Release|x86.ActiveCfg = Release|x86
+		{752D923C-C9F6-444A-B98C-41C3844C20E9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

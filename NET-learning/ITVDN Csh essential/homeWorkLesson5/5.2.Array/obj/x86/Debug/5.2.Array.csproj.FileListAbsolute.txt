@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.2.Array/obj/x86/Debug/5.2.Array.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.2.Array/obj/x86/Debug/5.2.Array.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.2.Array/bin/Debug/5.2.Array.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.2.Array/bin/Debug/5.2.Array.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.2.Array/obj/x86/Debug/5.2.Array.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson5/5.2.Array/obj/x86/Debug/5.2.Array.pdb

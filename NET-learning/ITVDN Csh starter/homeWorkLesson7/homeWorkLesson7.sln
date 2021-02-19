@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2", "7.2\7.2.csproj", "{842D1C14-2369-48C6-A929-67AB0718A2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.3", "7.3\7.3.csproj", "{71AA368E-6323-482D-A662-1722E3B07FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.4", "7.4\7.4.csproj", "{7FF585B3-204B-4133-B693-4B49B0A5C588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842D1C14-2369-48C6-A929-67AB0718A2AE}.Debug|x86.ActiveCfg = Debug|x86
+		{842D1C14-2369-48C6-A929-67AB0718A2AE}.Debug|x86.Build.0 = Debug|x86
+		{842D1C14-2369-48C6-A929-67AB0718A2AE}.Release|x86.ActiveCfg = Release|x86
+		{842D1C14-2369-48C6-A929-67AB0718A2AE}.Release|x86.Build.0 = Release|x86
+		{71AA368E-6323-482D-A662-1722E3B07FBD}.Debug|x86.ActiveCfg = Debug|x86
+		{71AA368E-6323-482D-A662-1722E3B07FBD}.Debug|x86.Build.0 = Debug|x86
+		{71AA368E-6323-482D-A662-1722E3B07FBD}.Release|x86.ActiveCfg = Release|x86
+		{71AA368E-6323-482D-A662-1722E3B07FBD}.Release|x86.Build.0 = Release|x86
+		{7FF585B3-204B-4133-B693-4B49B0A5C588}.Debug|x86.ActiveCfg = Debug|x86
+		{7FF585B3-204B-4133-B693-4B49B0A5C588}.Debug|x86.Build.0 = Debug|x86
+		{7FF585B3-204B-4133-B693-4B49B0A5C588}.Release|x86.ActiveCfg = Release|x86
+		{7FF585B3-204B-4133-B693-4B49B0A5C588}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

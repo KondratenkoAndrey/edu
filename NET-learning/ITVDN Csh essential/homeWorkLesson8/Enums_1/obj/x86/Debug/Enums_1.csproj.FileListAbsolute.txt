@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/Enums_1/obj/x86/Debug/Enums_1.csprojResolveAssemblyReference.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/Enums_1/obj/x86/Debug/Enums_1.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/Enums_1/bin/Debug/Enums_1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/Enums_1/bin/Debug/Enums_1.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/Enums_1/obj/x86/Debug/Enums_1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/Enums_1/obj/x86/Debug/Enums_1.pdb

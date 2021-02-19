@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5454B789-A230-469C-8B0D-96D01448B027}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enums_2/Program.cs">
+    <Files>
+      <File FileName="Enums_1/Printer.cs" Line="17" Column="21" />
+      <File FileName="Enums_1/Program.cs" Line="18" Column="39" NotebookId="1" />
+      <File FileName="Enums_2/Program.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DateTime__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Enums__2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Enums__1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/DateTime_1/bin/Debug/DateTime_1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/DateTime_1/bin/Debug/DateTime_1.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/DateTime_1/obj/x86/Debug/DateTime_1.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/DateTime_1/obj/x86/Debug/DateTime_1.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh essential/homeWorkLesson8/DateTime_1/obj/x86/Debug/DateTime_1.pdb

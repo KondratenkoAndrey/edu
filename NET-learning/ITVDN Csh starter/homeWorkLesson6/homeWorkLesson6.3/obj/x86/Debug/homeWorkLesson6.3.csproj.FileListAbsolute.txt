@@ -1,0 +1,6 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson6/homeWorkLesson6.3/bin/Debug/homeWorkLesson6.3.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson6/homeWorkLesson6.3/bin/Debug/homeWorkLesson6.3.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson6/homeWorkLesson6.3/obj/x86/Debug/homeWorkLesson6.3.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson6/homeWorkLesson6.3/obj/x86/Debug/homeWorkLesson6.3.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson6/homeWorkLesson6.3/obj/x86/Debug/homeWorkLesson6.3.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson6/homeWorkLesson6.3/obj/x86/Debug/homeWorkLesson6.3.csprojResolveAssemblyReference.cache

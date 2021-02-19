@@ -1,0 +1,7 @@
+D:\dev\homeWorkLesson7\Structures_2\bin\Debug\Structures_2.exe.config
+D:\dev\homeWorkLesson7\Structures_2\bin\Debug\Structures_2.exe
+D:\dev\homeWorkLesson7\Structures_2\bin\Debug\Structures_2.pdb
+D:\dev\homeWorkLesson7\Structures_2\obj\Debug\Structures_2.csproj.CoreCompileInputs.cache
+D:\dev\homeWorkLesson7\Structures_2\obj\Debug\Structures_2.exe
+D:\dev\homeWorkLesson7\Structures_2\obj\Debug\Structures_2.pdb
+D:\dev\homeWorkLesson7\Structures_2\obj\Debug\Structures_2.csprojAssemblyReference.cache

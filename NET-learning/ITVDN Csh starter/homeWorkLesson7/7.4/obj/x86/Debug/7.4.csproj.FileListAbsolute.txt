@@ -1,0 +1,5 @@
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.4/obj/x86/Debug/7.4.csproj.CoreCompileInputs.cache
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.4/bin/Debug/7.4.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.4/bin/Debug/7.4.pdb
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.4/obj/x86/Debug/7.4.exe
+/Users/andrey/dev/dotNET/edu/ITVDN Csh starter/homeWorkLesson7/7.4/obj/x86/Debug/7.4.pdb

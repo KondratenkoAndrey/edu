@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime_1", "DateTime_1\DateTime_1.csproj", "{ACD18A81-4190-41D7-9022-5660BB06FF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums_1", "Enums_1\Enums_1.csproj", "{5454B789-A230-469C-8B0D-96D01448B027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums_2", "Enums_2\Enums_2.csproj", "{44D37CF3-2B0A-4618-A9C1-99281213D4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD18A81-4190-41D7-9022-5660BB06FF45}.Debug|x86.ActiveCfg = Debug|x86
+		{ACD18A81-4190-41D7-9022-5660BB06FF45}.Debug|x86.Build.0 = Debug|x86
+		{ACD18A81-4190-41D7-9022-5660BB06FF45}.Release|x86.ActiveCfg = Release|x86
+		{ACD18A81-4190-41D7-9022-5660BB06FF45}.Release|x86.Build.0 = Release|x86
+		{5454B789-A230-469C-8B0D-96D01448B027}.Debug|x86.ActiveCfg = Debug|x86
+		{5454B789-A230-469C-8B0D-96D01448B027}.Debug|x86.Build.0 = Debug|x86
+		{5454B789-A230-469C-8B0D-96D01448B027}.Release|x86.ActiveCfg = Release|x86
+		{5454B789-A230-469C-8B0D-96D01448B027}.Release|x86.Build.0 = Release|x86
+		{44D37CF3-2B0A-4618-A9C1-99281213D4A9}.Debug|x86.ActiveCfg = Debug|x86
+		{44D37CF3-2B0A-4618-A9C1-99281213D4A9}.Debug|x86.Build.0 = Debug|x86
+		{44D37CF3-2B0A-4618-A9C1-99281213D4A9}.Release|x86.ActiveCfg = Release|x86
+		{44D37CF3-2B0A-4618-A9C1-99281213D4A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
