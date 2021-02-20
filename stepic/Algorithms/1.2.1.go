@@ -57,7 +57,6 @@ type brace struct {
 	braceCode int32
 	position int
 }
-
 type stack []brace
 
 func (s stack) Push(value brace) stack {
