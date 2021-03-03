@@ -1,0 +1,16 @@
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ThreadSafeSingleton.exe
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ThreadSafeSingleton.deps.json
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ThreadSafeSingleton.runtimeconfig.json
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ThreadSafeSingleton.runtimeconfig.dev.json
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ThreadSafeSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ref\ThreadSafeSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\bin\Debug\net5.0\ThreadSafeSingleton.pdb
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.csprojAssemblyReference.cache
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.AssemblyInfoInputs.cache
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.AssemblyInfo.cs
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.csproj.CoreCompileInputs.cache
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ref\ThreadSafeSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.pdb
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\ThreadSafeSingleton\obj\Debug\net5.0\ThreadSafeSingleton.genruntimeconfig.cache

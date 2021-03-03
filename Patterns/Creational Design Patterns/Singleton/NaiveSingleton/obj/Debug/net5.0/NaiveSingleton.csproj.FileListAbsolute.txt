@@ -1,0 +1,16 @@
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\NaiveSingleton.exe
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\NaiveSingleton.deps.json
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\NaiveSingleton.runtimeconfig.json
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\NaiveSingleton.runtimeconfig.dev.json
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\NaiveSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\ref\NaiveSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\bin\Debug\net5.0\NaiveSingleton.pdb
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.csprojAssemblyReference.cache
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.AssemblyInfoInputs.cache
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.AssemblyInfo.cs
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.csproj.CoreCompileInputs.cache
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\ref\NaiveSingleton.dll
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.pdb
+C:\dev\Edu\Patterns\Creational Design Patterns\Singleton\NaiveSingleton\obj\Debug\net5.0\NaiveSingleton.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveSingleton", "NaiveSingleton\NaiveSingleton.csproj", "{911C439A-6FEC-40C4-BE5C-123C01BDD15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeSingleton", "ThreadSafeSingleton\ThreadSafeSingleton.csproj", "{CBB055AC-58C6-4317-96A5-511F152C801C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911C439A-6FEC-40C4-BE5C-123C01BDD15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911C439A-6FEC-40C4-BE5C-123C01BDD15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911C439A-6FEC-40C4-BE5C-123C01BDD15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911C439A-6FEC-40C4-BE5C-123C01BDD15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB055AC-58C6-4317-96A5-511F152C801C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB055AC-58C6-4317-96A5-511F152C801C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB055AC-58C6-4317-96A5-511F152C801C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB055AC-58C6-4317-96A5-511F152C801C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

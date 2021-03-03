@@ -1,0 +1,16 @@
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csprojAssemblyReference.cache
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\dev\Edu\Patterns\Structural Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
