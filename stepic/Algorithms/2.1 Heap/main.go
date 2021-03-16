@@ -6,13 +6,12 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"time"
 )
 
 func main() {
 	writer := bufio.NewWriter(os.Stdout)
 	scanner := bufio.NewScanner(os.Stdin)
-	bufferSize := 4*10*110000
+	bufferSize := 4 * 10 * 110000
 	buffer := make([]byte, bufferSize)
 	scanner.Buffer(buffer, bufferSize)
 	scanner.Split(bufio.ScanLines)
@@ -27,13 +26,7 @@ func main() {
 		array[i], _ = strconv.Atoi(input[i])
 	}
 
-	//heap := BuildHeap(array)
-	start := time.Now()
 	BuildHeap(array)
-
-	//for i := range heap.data {
-	//	fmt.Fprintf(writer, "%d ", heap.data[i])
-	//}
 
 	fmt.Fprintf(writer, "%d\n", len(swipes))
 	for i := range swipes {
@@ -41,7 +34,6 @@ func main() {
 	}
 
 	writer.Flush()
-	fmt.Println(time.Since(start))
 }
 
 var swipes []string
@@ -60,7 +52,7 @@ type Heap struct {
 }
 
 func (h *Heap) siftUp(i int) {
-	for ; i > 0 && h.GetNode(h.parent(i)) < h.GetNode(i); {
+	for i > 0 && h.GetNode(h.parent(i)) < h.GetNode(i) {
 		h.swap(i, h.parent(i))
 		i = h.parent(i)
 	}
