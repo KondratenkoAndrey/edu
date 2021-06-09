@@ -1,3 +1,6 @@
 /stepic/Algorithms/.idea
 .idea
-/Patterns/Behavioral Design Patterns/Command/Command/obj
+/Patterns/Behavioral Design Patterns/Command/Command/obj/
+/Patterns/Behavioral Design Patterns/Command/Command/bin/
+/Patterns/Behavioral Design Patterns/Iterator/Iterator/bin/
+/Patterns/Behavioral Design Patterns/Iterator/Iterator/obj/
